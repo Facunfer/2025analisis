@@ -1,0 +1,1009 @@
+cargo,id_ubicacion,clase_ubicacion,descripcion_ubicacion,COMUNA,cant_votos_positivos,cant_votos_negativos,porcentaje_participacion,porcentaje_planillas_procesadas,cant_votantes,hora_proceso,clase_candidatura,id_candidatura,descripcion_candidatura,cant_votos
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,55
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,642
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,11.11.11,El Movimiento,63
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,12.12.12,Frente Patriota Federal,35
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,13.13.13,La Izquierda en la Ciudad,70
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,14.14.14,La Libertad Avanza,9613
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,15.15.15,Seamos Libres,202
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,16.16.16,Unión del Centro Democrático,884
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,208
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,2.2.2,Buenos Aires Primero,6302
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,3.3.3,Volvamos Buenos Aires,1992
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,4.4.4,Es Ahora Buenos Aires,4831
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,5.5.5,Evolución,467
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,653
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,7.7.7,Principios y Valores,312
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,8.8.8,Unión Porteña Libertaria,249
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Lista,9.9.9,Movimiento Plural,56
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Blanco,BLC,Voto en BLANCO,464
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,9
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Especial,NUL,Votos NULOS,20
+DIP,CABA.1.1,Localidad,Retiro,Comuna 01,27098,48,37.4685,100,27146,2025-05-18 20:15:01,Especial,REC,Votos RECURRIDOS,19
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,56
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,429
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,11.11.11,El Movimiento,29
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,12.12.12,Frente Patriota Federal,46
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,13.13.13,La Izquierda en la Ciudad,67
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,14.14.14,La Libertad Avanza,6766
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,15.15.15,Seamos Libres,98
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,16.16.16,Unión del Centro Democrático,690
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,250
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,2.2.2,Buenos Aires Primero,3188
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,3.3.3,Volvamos Buenos Aires,1364
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,4.4.4,Es Ahora Buenos Aires,4618
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,5.5.5,Evolución,420
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,538
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,7.7.7,Principios y Valores,348
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,8.8.8,Unión Porteña Libertaria,126
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Lista,9.9.9,Movimiento Plural,36
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Blanco,BLC,Voto en BLANCO,365
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,1
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Especial,NUL,Votos NULOS,24
+DIP,CABA.1.2,Localidad,San Nicolas,Comuna 01,19434,25,39.9979,100,19459,2025-05-18 19:30:01,Especial,REC,Votos RECURRIDOS,0
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,18
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,79
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,4
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,4
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,4
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,1727
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,5
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,110
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,25
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,768
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,216
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,368
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,5.5.5,Evolución,56
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,25
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,27
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,19
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,3
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,30
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,3
+DIP,CABA.1.3,Localidad,Puerto Madero,Comuna 01,3488,3,45.3376,100,3491,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,0
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,123
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,251
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,11.11.11,El Movimiento,22
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,12.12.12,Frente Patriota Federal,22
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,13.13.13,La Izquierda en la Ciudad,60
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,14.14.14,La Libertad Avanza,2866
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,15.15.15,Seamos Libres,102
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,16.16.16,Unión del Centro Democrático,288
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,198
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,2.2.2,Buenos Aires Primero,1463
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,3.3.3,Volvamos Buenos Aires,915
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,4.4.4,Es Ahora Buenos Aires,4187
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,5.5.5,Evolución,216
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,581
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,7.7.7,Principios y Valores,255
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,8.8.8,Unión Porteña Libertaria,71
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Lista,9.9.9,Movimiento Plural,13
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Blanco,BLC,Voto en BLANCO,222
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Especial,NUL,Votos NULOS,14
+DIP,CABA.1.4,Localidad,San Telmo,Comuna 01,11855,18,47.115,100,11873,2025-05-18 20:25:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,83
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,410
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,11.11.11,El Movimiento,45
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,12.12.12,Frente Patriota Federal,49
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,13.13.13,La Izquierda en la Ciudad,102
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,14.14.14,La Libertad Avanza,6122
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,15.15.15,Seamos Libres,139
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,16.16.16,Unión del Centro Democrático,649
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,325
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,2.2.2,Buenos Aires Primero,2826
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,3.3.3,Volvamos Buenos Aires,1529
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,4.4.4,Es Ahora Buenos Aires,6249
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,5.5.5,Evolución,486
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,765
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,7.7.7,Principios y Valores,469
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,8.8.8,Unión Porteña Libertaria,143
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Lista,9.9.9,Movimiento Plural,39
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Blanco,BLC,Voto en BLANCO,404
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Especial,NUL,Votos NULOS,26
+DIP,CABA.1.5,Localidad,Monserrat,Comuna 01,20834,32,42.89,100,20866,2025-05-18 19:40:01,Especial,REC,Votos RECURRIDOS,4
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,113
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,373
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,11.11.11,El Movimiento,64
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,12.12.12,Frente Patriota Federal,54
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,13.13.13,La Izquierda en la Ciudad,105
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,14.14.14,La Libertad Avanza,5745
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,15.15.15,Seamos Libres,171
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,16.16.16,Unión del Centro Democrático,661
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,387
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,2.2.2,Buenos Aires Primero,2660
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,3.3.3,Volvamos Buenos Aires,1578
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,4.4.4,Es Ahora Buenos Aires,6894
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,5.5.5,Evolución,481
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,828
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,7.7.7,Principios y Valores,490
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,8.8.8,Unión Porteña Libertaria,175
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Lista,9.9.9,Movimiento Plural,49
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Blanco,BLC,Voto en BLANCO,394
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Especial,NUL,Votos NULOS,24
+DIP,CABA.1.6,Localidad,Constitucion,Comuna 01,21222,26,41.8679,98.6394,21248,2025-05-18 21:05:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,188
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,3102
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,11.11.11,El Movimiento,93
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,12.12.12,Frente Patriota Federal,111
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,13.13.13,La Izquierda en la Ciudad,202
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,14.14.14,La Libertad Avanza,32028
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,15.15.15,Seamos Libres,196
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,16.16.16,Unión del Centro Democrático,2689
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,791
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,2.2.2,Buenos Aires Primero,19002
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,3.3.3,Volvamos Buenos Aires,6075
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,4.4.4,Es Ahora Buenos Aires,14116
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,5.5.5,Evolución,1845
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1595
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,7.7.7,Principios y Valores,927
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,8.8.8,Unión Porteña Libertaria,423
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Lista,9.9.9,Movimiento Plural,68
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Blanco,BLC,Voto en BLANCO,1301
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,5
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Especial,NUL,Votos NULOS,45
+DIP,CABA.2.7,Localidad,Recoleta,Comuna 02,84752,60,51.3389,100,84812,2025-05-18 21:05:01,Especial,REC,Votos RECURRIDOS,10
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,248
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1412
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,11.11.11,El Movimiento,163
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,12.12.12,Frente Patriota Federal,135
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,13.13.13,La Izquierda en la Ciudad,269
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,14.14.14,La Libertad Avanza,20931
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,15.15.15,Seamos Libres,375
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,16.16.16,Unión del Centro Democrático,1997
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1111
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,2.2.2,Buenos Aires Primero,9306
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,3.3.3,Volvamos Buenos Aires,5226
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,4.4.4,Es Ahora Buenos Aires,19822
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,5.5.5,Evolución,1659
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,2486
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,7.7.7,Principios y Valores,1645
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,8.8.8,Unión Porteña Libertaria,527
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Lista,9.9.9,Movimiento Plural,130
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Blanco,BLC,Voto en BLANCO,1390
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,7
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Especial,NUL,Votos NULOS,100
+DIP,CABA.3.8,Localidad,Balvanera,Comuna 03,68832,119,44.2703,99.7757,68951,2025-05-18 20:40:01,Especial,REC,Votos RECURRIDOS,12
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,106
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,516
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,11.11.11,El Movimiento,59
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,12.12.12,Frente Patriota Federal,59
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,13.13.13,La Izquierda en la Ciudad,114
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,14.14.14,La Libertad Avanza,7398
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,15.15.15,Seamos Libres,198
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,16.16.16,Unión del Centro Democrático,727
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,496
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,2.2.2,Buenos Aires Primero,3608
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,3.3.3,Volvamos Buenos Aires,2138
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,4.4.4,Es Ahora Buenos Aires,8882
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,5.5.5,Evolución,516
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1116
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,7.7.7,Principios y Valores,664
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,8.8.8,Unión Porteña Libertaria,175
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Lista,9.9.9,Movimiento Plural,61
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Blanco,BLC,Voto en BLANCO,552
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Especial,NUL,Votos NULOS,24
+DIP,CABA.3.9,Localidad,San Cristobal,Comuna 03,27385,29,52.9227,99.3288,27414,2025-05-18 19:45:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,140
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,261
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,11.11.11,El Movimiento,86
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,12.12.12,Frente Patriota Federal,49
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,13.13.13,La Izquierda en la Ciudad,129
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,14.14.14,La Libertad Avanza,6099
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,15.15.15,Seamos Libres,179
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,16.16.16,Unión del Centro Democrático,595
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,547
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,2.2.2,Buenos Aires Primero,2996
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,3.3.3,Volvamos Buenos Aires,1995
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,4.4.4,Es Ahora Buenos Aires,7697
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,5.5.5,Evolución,922
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,799
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,7.7.7,Principios y Valores,627
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,8.8.8,Unión Porteña Libertaria,233
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Lista,9.9.9,Movimiento Plural,69
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Blanco,BLC,Voto en BLANCO,480
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,1
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Especial,NUL,Votos NULOS,24
+DIP,CABA.4.10,Localidad,Boca,Comuna 04,23903,30,48.1549,100,23933,2025-05-18 20:50:01,Especial,REC,Votos RECURRIDOS,5
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,188
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,691
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,133
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,72
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,171
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,10863
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,442
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,1192
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,805
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,5877
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,3366
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,13357
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,5.5.5,Evolución,830
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1305
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,828
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,485
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,95
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,813
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,43
+DIP,CABA.4.11,Localidad,Barracas,Comuna 04,41513,48,44.3081,100,41561,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,108
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,388
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,11.11.11,El Movimiento,65
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,12.12.12,Frente Patriota Federal,44
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,13.13.13,La Izquierda en la Ciudad,108
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,14.14.14,La Libertad Avanza,5952
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,15.15.15,Seamos Libres,171
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,16.16.16,Unión del Centro Democrático,571
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,451
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,2.2.2,Buenos Aires Primero,3027
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,3.3.3,Volvamos Buenos Aires,1845
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,4.4.4,Es Ahora Buenos Aires,7344
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,5.5.5,Evolución,436
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,930
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,7.7.7,Principios y Valores,647
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,8.8.8,Unión Porteña Libertaria,161
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Lista,9.9.9,Movimiento Plural,26
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Blanco,BLC,Voto en BLANCO,443
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Especial,NUL,Votos NULOS,29
+DIP,CABA.4.12,Localidad,Parque Patricios,Comuna 04,22717,29,53.7095,100,22746,2025-05-18 20:25:01,Especial,REC,Votos RECURRIDOS,0
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,57
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,325
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,11.11.11,El Movimiento,69
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,12.12.12,Frente Patriota Federal,43
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,13.13.13,La Izquierda en la Ciudad,117
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,14.14.14,La Libertad Avanza,6737
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,15.15.15,Seamos Libres,187
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,16.16.16,Unión del Centro Democrático,660
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,598
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,2.2.2,Buenos Aires Primero,2688
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,3.3.3,Volvamos Buenos Aires,2081
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,4.4.4,Es Ahora Buenos Aires,7734
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,5.5.5,Evolución,457
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,832
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,7.7.7,Principios y Valores,742
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,8.8.8,Unión Porteña Libertaria,219
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Lista,9.9.9,Movimiento Plural,47
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Blanco,BLC,Voto en BLANCO,532
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,1
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Especial,NUL,Votos NULOS,29
+DIP,CABA.4.13,Localidad,Nueva Pompeya,Comuna 04,24125,35,50.3858,100,24160,2025-05-18 19:55:01,Especial,REC,Votos RECURRIDOS,5
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,284
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1941
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,11.11.11,El Movimiento,175
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,12.12.12,Frente Patriota Federal,114
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,13.13.13,La Izquierda en la Ciudad,315
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,14.14.14,La Libertad Avanza,20000
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,15.15.15,Seamos Libres,321
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,16.16.16,Unión del Centro Democrático,1860
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1111
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,2.2.2,Buenos Aires Primero,11047
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,3.3.3,Volvamos Buenos Aires,5908
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,4.4.4,Es Ahora Buenos Aires,22843
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,5.5.5,Evolución,1813
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,2963
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,7.7.7,Principios y Valores,1466
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,8.8.8,Unión Porteña Libertaria,387
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Lista,9.9.9,Movimiento Plural,117
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Blanco,BLC,Voto en BLANCO,1332
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,4
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Especial,NUL,Votos NULOS,58
+DIP,CABA.5.14,Localidad,Almagro,Comuna 05,73997,66,54.9632,100,74063,2025-05-18 20:40:01,Especial,REC,Votos RECURRIDOS,4
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,78
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,617
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,11.11.11,El Movimiento,53
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,12.12.12,Frente Patriota Federal,39
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,13.13.13,La Izquierda en la Ciudad,139
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,14.14.14,La Libertad Avanza,7110
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,15.15.15,Seamos Libres,172
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,16.16.16,Unión del Centro Democrático,644
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,556
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,2.2.2,Buenos Aires Primero,3801
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,3.3.3,Volvamos Buenos Aires,2219
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,4.4.4,Es Ahora Buenos Aires,9904
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,5.5.5,Evolución,614
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1136
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,7.7.7,Principios y Valores,728
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,8.8.8,Unión Porteña Libertaria,152
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Lista,9.9.9,Movimiento Plural,49
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Blanco,BLC,Voto en BLANCO,573
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Especial,NUL,Votos NULOS,31
+DIP,CABA.5.15,Localidad,Boedo,Comuna 05,28584,34,59.2505,100,28618,2025-05-18 20:25:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,332
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,3409
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,11.11.11,El Movimiento,163
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,12.12.12,Frente Patriota Federal,148
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,13.13.13,La Izquierda en la Ciudad,396
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,14.14.14,La Libertad Avanza,31120
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,15.15.15,Seamos Libres,411
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,16.16.16,Unión del Centro Democrático,2591
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1704
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,2.2.2,Buenos Aires Primero,19142
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,3.3.3,Volvamos Buenos Aires,8631
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,4.4.4,Es Ahora Buenos Aires,30390
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,5.5.5,Evolución,2551
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,3820
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,7.7.7,Principios y Valores,1990
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,8.8.8,Unión Porteña Libertaria,499
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Lista,9.9.9,Movimiento Plural,113
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Blanco,BLC,Voto en BLANCO,2040
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,6
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Especial,NUL,Votos NULOS,91
+DIP,CABA.6.16,Localidad,Caballito,Comuna 06,109450,107,61.3764,99.8043,109557,2025-05-18 20:10:01,Especial,REC,Votos RECURRIDOS,10
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,234
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1773
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,11.11.11,El Movimiento,161
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,12.12.12,Frente Patriota Federal,149
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,13.13.13,La Izquierda en la Ciudad,303
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,14.14.14,La Libertad Avanza,24775
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,15.15.15,Seamos Libres,608
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,16.16.16,Unión del Centro Democrático,2185
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1378
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,2.2.2,Buenos Aires Primero,11333
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,3.3.3,Volvamos Buenos Aires,6270
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,4.4.4,Es Ahora Buenos Aires,23348
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,5.5.5,Evolución,1801
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,2728
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,7.7.7,Principios y Valores,2221
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,8.8.8,Unión Porteña Libertaria,573
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Lista,9.9.9,Movimiento Plural,90
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Blanco,BLC,Voto en BLANCO,1616
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,6
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Especial,NUL,Votos NULOS,74
+DIP,CABA.7.17,Localidad,Flores,Comuna 07,81546,86,48.6919,99.5841,81632,2025-05-18 21:10:01,Especial,REC,Votos RECURRIDOS,6
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,107
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,823
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,11.11.11,El Movimiento,63
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,12.12.12,Frente Patriota Federal,55
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,13.13.13,La Izquierda en la Ciudad,135
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,14.14.14,La Libertad Avanza,9712
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,15.15.15,Seamos Libres,236
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,16.16.16,Unión del Centro Democrático,870
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,678
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,2.2.2,Buenos Aires Primero,4801
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,3.3.3,Volvamos Buenos Aires,2951
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,4.4.4,Es Ahora Buenos Aires,10918
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,5.5.5,Evolución,703
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1236
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,7.7.7,Principios y Valores,959
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,8.8.8,Unión Porteña Libertaria,207
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Lista,9.9.9,Movimiento Plural,34
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Blanco,BLC,Voto en BLANCO,673
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Especial,NUL,Votos NULOS,36
+DIP,CABA.7.18,Localidad,Parque Chacabuco,Comuna 07,35161,46,59.1714,100,35207,2025-05-18 20:35:01,Especial,REC,Votos RECURRIDOS,8
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,119
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,132
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,11.11.11,El Movimiento,96
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,12.12.12,Frente Patriota Federal,36
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,13.13.13,La Izquierda en la Ciudad,102
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,14.14.14,La Libertad Avanza,5036
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,15.15.15,Seamos Libres,242
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,16.16.16,Unión del Centro Democrático,546
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,394
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,2.2.2,Buenos Aires Primero,1925
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,3.3.3,Volvamos Buenos Aires,1688
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,4.4.4,Es Ahora Buenos Aires,8138
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,5.5.5,Evolución,697
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,694
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,7.7.7,Principios y Valores,741
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,8.8.8,Unión Porteña Libertaria,248
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Lista,9.9.9,Movimiento Plural,44
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Blanco,BLC,Voto en BLANCO,479
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,3
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Especial,NUL,Votos NULOS,51
+DIP,CABA.8.19,Localidad,Villa Soldati,Comuna 08,21357,80,43.7489,100,21437,2025-05-18 21:30:01,Especial,REC,Votos RECURRIDOS,26
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,24
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,220
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,33
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,21
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,25
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,3262
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,45
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,291
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,215
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,1266
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,1039
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,2880
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,5.5.5,Evolución,269
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,256
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,235
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,72
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,13
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,248
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,13
+DIP,CABA.8.20,Localidad,Villa Riachuelo,Comuna 08,10414,16,58.4313,98.0769,10430,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,192
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,711
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,11.11.11,El Movimiento,198
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,12.12.12,Frente Patriota Federal,128
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,13.13.13,La Izquierda en la Ciudad,288
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,14.14.14,La Libertad Avanza,16346
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,15.15.15,Seamos Libres,534
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,16.16.16,Unión del Centro Democrático,1549
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1132
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,2.2.2,Buenos Aires Primero,6079
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,3.3.3,Volvamos Buenos Aires,5408
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,4.4.4,Es Ahora Buenos Aires,21061
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,5.5.5,Evolución,1363
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1616
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,7.7.7,Principios y Valores,1702
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,8.8.8,Unión Porteña Libertaria,589
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Lista,9.9.9,Movimiento Plural,92
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Blanco,BLC,Voto en BLANCO,1237
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,11
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Especial,NUL,Votos NULOS,60
+DIP,CABA.8.21,Localidad,Villa Lugano,Comuna 08,60225,80,44.6373,99.2287,60305,2025-05-18 20:35:01,Especial,REC,Votos RECURRIDOS,9
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,64
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,816
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,11.11.11,El Movimiento,57
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,12.12.12,Frente Patriota Federal,53
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,13.13.13,La Izquierda en la Ciudad,114
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,14.14.14,La Libertad Avanza,8580
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,15.15.15,Seamos Libres,117
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,16.16.16,Unión del Centro Democrático,685
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,608
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,2.2.2,Buenos Aires Primero,4126
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,3.3.3,Volvamos Buenos Aires,2408
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,4.4.4,Es Ahora Buenos Aires,7688
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,5.5.5,Evolución,605
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,791
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,7.7.7,Principios y Valores,673
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,8.8.8,Unión Porteña Libertaria,181
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Lista,9.9.9,Movimiento Plural,37
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Blanco,BLC,Voto en BLANCO,575
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,5
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Especial,NUL,Votos NULOS,14
+DIP,CABA.9.22,Localidad,Liniers,Comuna 09,28178,20,58.3809,100,28198,2025-05-18 19:55:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,81
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1028
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,11.11.11,El Movimiento,110
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,12.12.12,Frente Patriota Federal,85
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,13.13.13,La Izquierda en la Ciudad,172
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,14.14.14,La Libertad Avanza,11970
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,15.15.15,Seamos Libres,248
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,16.16.16,Unión del Centro Democrático,956
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,894
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,2.2.2,Buenos Aires Primero,5207
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,3.3.3,Volvamos Buenos Aires,3380
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,4.4.4,Es Ahora Buenos Aires,12820
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,5.5.5,Evolución,747
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1146
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,7.7.7,Principios y Valores,1105
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,8.8.8,Unión Porteña Libertaria,292
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Lista,9.9.9,Movimiento Plural,57
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Blanco,BLC,Voto en BLANCO,786
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Especial,NUL,Votos NULOS,51
+DIP,CABA.9.23,Localidad,Mataderos,Comuna 09,41084,58,55.9755,99.526,41142,2025-05-18 20:55:01,Especial,REC,Votos RECURRIDOS,5
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,99
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,499
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,11.11.11,El Movimiento,81
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,12.12.12,Frente Patriota Federal,68
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,13.13.13,La Izquierda en la Ciudad,125
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,14.14.14,La Libertad Avanza,8135
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,15.15.15,Seamos Libres,193
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,16.16.16,Unión del Centro Democrático,732
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,611
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,2.2.2,Buenos Aires Primero,3218
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,3.3.3,Volvamos Buenos Aires,2276
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,4.4.4,Es Ahora Buenos Aires,9425
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,5.5.5,Evolución,592
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1055
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,7.7.7,Principios y Valores,923
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,8.8.8,Unión Porteña Libertaria,284
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Lista,9.9.9,Movimiento Plural,56
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Blanco,BLC,Voto en BLANCO,632
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,6
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Especial,NUL,Votos NULOS,31
+DIP,CABA.9.24,Localidad,Parque Avellaneda,Comuna 09,29004,39,50.9079,100,29043,2025-05-18 20:15:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,34
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,214
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,11.11.11,El Movimiento,23
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,12.12.12,Frente Patriota Federal,12
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,13.13.13,La Izquierda en la Ciudad,27
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,14.14.14,La Libertad Avanza,2592
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,15.15.15,Seamos Libres,24
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,16.16.16,Unión del Centro Democrático,196
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,181
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,2.2.2,Buenos Aires Primero,1154
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,3.3.3,Volvamos Buenos Aires,755
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,4.4.4,Es Ahora Buenos Aires,2156
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,5.5.5,Evolución,176
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,240
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,7.7.7,Principios y Valores,175
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,8.8.8,Unión Porteña Libertaria,54
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Lista,9.9.9,Movimiento Plural,18
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Blanco,BLC,Voto en BLANCO,184
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Especial,NUL,Votos NULOS,9
+DIP,CABA.10.25,Localidad,Villa Real,Comuna 10,8215,12,61.8571,97.4358,8227,2025-05-18 20:40:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,58
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,477
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,11.11.11,El Movimiento,43
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,12.12.12,Frente Patriota Federal,29
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,13.13.13,La Izquierda en la Ciudad,80
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,14.14.14,La Libertad Avanza,6304
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,15.15.15,Seamos Libres,99
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,16.16.16,Unión del Centro Democrático,511
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,563
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,2.2.2,Buenos Aires Primero,2938
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,3.3.3,Volvamos Buenos Aires,1797
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,4.4.4,Es Ahora Buenos Aires,6118
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,5.5.5,Evolución,444
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,696
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,7.7.7,Principios y Valores,461
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,8.8.8,Unión Porteña Libertaria,102
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Lista,9.9.9,Movimiento Plural,27
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Blanco,BLC,Voto en BLANCO,467
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,6
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Especial,NUL,Votos NULOS,23
+DIP,CABA.10.26,Localidad,Monte Castro,Comuna 10,21214,30,63.2261,100,21244,2025-05-18 19:35:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,16
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,222
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,10
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,11
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,51
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,2878
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,32
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,226
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,206
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,1377
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,833
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,2341
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,5.5.5,Evolución,150
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,282
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,165
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,42
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,7
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,187
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,8
+DIP,CABA.10.27,Localidad,Versalles,Comuna 10,9036,9,63.0313,100,9045,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,54
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,430
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,11.11.11,El Movimiento,41
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,12.12.12,Frente Patriota Federal,36
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,13.13.13,La Izquierda en la Ciudad,84
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,14.14.14,La Libertad Avanza,5469
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,15.15.15,Seamos Libres,99
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,16.16.16,Unión del Centro Democrático,524
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,394
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,2.2.2,Buenos Aires Primero,2576
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,3.3.3,Volvamos Buenos Aires,1557
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,4.4.4,Es Ahora Buenos Aires,5971
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,5.5.5,Evolución,383
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,724
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,7.7.7,Principios y Valores,539
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,8.8.8,Unión Porteña Libertaria,127
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Lista,9.9.9,Movimiento Plural,20
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Blanco,BLC,Voto en BLANCO,433
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,1
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Especial,NUL,Votos NULOS,18
+DIP,CABA.10.28,Localidad,Floresta,Comuna 10,19461,27,51.5555,100,19488,2025-05-18 19:45:01,Especial,REC,Votos RECURRIDOS,8
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,61
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,519
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,11.11.11,El Movimiento,38
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,12.12.12,Frente Patriota Federal,33
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,13.13.13,La Izquierda en la Ciudad,84
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,14.14.14,La Libertad Avanza,5824
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,15.15.15,Seamos Libres,116
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,16.16.16,Unión del Centro Democrático,512
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,462
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,2.2.2,Buenos Aires Primero,2852
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,3.3.3,Volvamos Buenos Aires,1595
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,4.4.4,Es Ahora Buenos Aires,6307
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,5.5.5,Evolución,482
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,821
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,7.7.7,Principios y Valores,516
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,8.8.8,Unión Porteña Libertaria,120
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Lista,9.9.9,Movimiento Plural,18
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Blanco,BLC,Voto en BLANCO,414
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,3
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Especial,NUL,Votos NULOS,22
+DIP,CABA.10.29,Localidad,Velez Sarsfield,Comuna 10,20774,25,58.8373,100,20799,2025-05-18 20:05:01,Especial,REC,Votos RECURRIDOS,0
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,39
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,544
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,11.11.11,El Movimiento,39
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,12.12.12,Frente Patriota Federal,33
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,13.13.13,La Izquierda en la Ciudad,111
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,14.14.14,La Libertad Avanza,6130
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,15.15.15,Seamos Libres,103
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,16.16.16,Unión del Centro Democrático,496
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,467
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,2.2.2,Buenos Aires Primero,2923
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,3.3.3,Volvamos Buenos Aires,1732
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,4.4.4,Es Ahora Buenos Aires,6037
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,5.5.5,Evolución,542
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,712
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,7.7.7,Principios y Valores,494
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,8.8.8,Unión Porteña Libertaria,104
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Lista,9.9.9,Movimiento Plural,27
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Blanco,BLC,Voto en BLANCO,397
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Especial,NUL,Votos NULOS,26
+DIP,CABA.10.30,Localidad,Villa Luro,Comuna 10,20930,29,61.1049,100,20959,2025-05-18 20:55:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,66
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,428
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,42
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,34
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,92
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,5349
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,76
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,441
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,470
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,2625
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,1666
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,6493
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,5.5.5,Evolución,438
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,735
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,454
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,111
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,15
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,411
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,19
+DIP,CABA.11.31,Localidad,Villa Gral. Mitre,Comuna 11,19946,23,58.8188,100,19969,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,122
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1188
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,11.11.11,El Movimiento,64
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,12.12.12,Frente Patriota Federal,58
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,13.13.13,La Izquierda en la Ciudad,184
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,14.14.14,La Libertad Avanza,14289
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,15.15.15,Seamos Libres,120
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,16.16.16,Unión del Centro Democrático,1178
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,793
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,2.2.2,Buenos Aires Primero,7085
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,3.3.3,Volvamos Buenos Aires,3599
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,4.4.4,Es Ahora Buenos Aires,9777
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,5.5.5,Evolución,848
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1138
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,7.7.7,Principios y Valores,706
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,8.8.8,Unión Porteña Libertaria,187
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Lista,9.9.9,Movimiento Plural,49
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Blanco,BLC,Voto en BLANCO,878
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,4
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Especial,NUL,Votos NULOS,38
+DIP,CABA.11.32,Localidad,Villa Devoto,Comuna 11,42263,44,63.6195,99.4764,42307,2025-05-18 20:10:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,112
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,938
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,11.11.11,El Movimiento,62
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,12.12.12,Frente Patriota Federal,62
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,13.13.13,La Izquierda en la Ciudad,133
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,14.14.14,La Libertad Avanza,10311
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,15.15.15,Seamos Libres,128
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,16.16.16,Unión del Centro Democrático,840
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,675
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,2.2.2,Buenos Aires Primero,5464
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,3.3.3,Volvamos Buenos Aires,3134
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,4.4.4,Es Ahora Buenos Aires,9662
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,5.5.5,Evolución,819
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1142
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,7.7.7,Principios y Valores,613
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,8.8.8,Unión Porteña Libertaria,186
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Lista,9.9.9,Movimiento Plural,28
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Blanco,BLC,Voto en BLANCO,715
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Especial,NUL,Votos NULOS,20
+DIP,CABA.11.33,Localidad,Villa del Parque,Comuna 11,35024,28,63.3851,100,35052,2025-05-18 20:15:01,Especial,REC,Votos RECURRIDOS,8
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,70
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,455
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,11.11.11,El Movimiento,47
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,12.12.12,Frente Patriota Federal,33
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,13.13.13,La Izquierda en la Ciudad,106
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,14.14.14,La Libertad Avanza,5966
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,15.15.15,Seamos Libres,109
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,16.16.16,Unión del Centro Democrático,499
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,453
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,2.2.2,Buenos Aires Primero,2749
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,3.3.3,Volvamos Buenos Aires,1817
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,4.4.4,Es Ahora Buenos Aires,5993
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,5.5.5,Evolución,407
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,799
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,7.7.7,Principios y Valores,438
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,8.8.8,Unión Porteña Libertaria,105
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Lista,9.9.9,Movimiento Plural,19
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Blanco,BLC,Voto en BLANCO,405
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,4
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Especial,NUL,Votos NULOS,32
+DIP,CABA.11.34,Localidad,Villa Santa Rita,Comuna 11,20470,37,59.7871,100,20507,2025-05-18 19:50:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,50
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,354
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,11.11.11,El Movimiento,18
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,12.12.12,Frente Patriota Federal,16
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,13.13.13,La Izquierda en la Ciudad,52
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,14.14.14,La Libertad Avanza,3492
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,15.15.15,Seamos Libres,47
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,16.16.16,Unión del Centro Democrático,303
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,197
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,2.2.2,Buenos Aires Primero,2109
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,3.3.3,Volvamos Buenos Aires,1026
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,4.4.4,Es Ahora Buenos Aires,3207
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,5.5.5,Evolución,333
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,411
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,7.7.7,Principios y Valores,195
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,8.8.8,Unión Porteña Libertaria,64
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Lista,9.9.9,Movimiento Plural,11
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Blanco,BLC,Voto en BLANCO,273
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Especial,NUL,Votos NULOS,11
+DIP,CABA.12.35,Localidad,Coghlan,Comuna 12,12158,13,61.0075,100,12171,2025-05-18 19:30:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,109
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,809
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,11.11.11,El Movimiento,61
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,12.12.12,Frente Patriota Federal,37
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,13.13.13,La Izquierda en la Ciudad,135
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,14.14.14,La Libertad Avanza,9178
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,15.15.15,Seamos Libres,226
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,16.16.16,Unión del Centro Democrático,743
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,583
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,2.2.2,Buenos Aires Primero,5048
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,3.3.3,Volvamos Buenos Aires,2558
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,4.4.4,Es Ahora Buenos Aires,8186
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,5.5.5,Evolución,966
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,925
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,7.7.7,Principios y Valores,598
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,8.8.8,Unión Porteña Libertaria,192
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Lista,9.9.9,Movimiento Plural,28
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Blanco,BLC,Voto en BLANCO,596
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,14
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Especial,NUL,Votos NULOS,21
+DIP,CABA.12.36,Localidad,Saavedra,Comuna 12,30978,41,60.7025,100,31019,2025-05-18 19:35:01,Especial,REC,Votos RECURRIDOS,6
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,165
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1608
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,11.11.11,El Movimiento,88
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,12.12.12,Frente Patriota Federal,59
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,13.13.13,La Izquierda en la Ciudad,211
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,14.14.14,La Libertad Avanza,18839
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,15.15.15,Seamos Libres,203
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,16.16.16,Unión del Centro Democrático,1512
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1051
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,2.2.2,Buenos Aires Primero,10691
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,3.3.3,Volvamos Buenos Aires,5622
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,4.4.4,Es Ahora Buenos Aires,15264
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,5.5.5,Evolución,1407
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1896
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,7.7.7,Principios y Valores,1125
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,8.8.8,Unión Porteña Libertaria,330
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Lista,9.9.9,Movimiento Plural,68
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Blanco,BLC,Voto en BLANCO,1162
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,3
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Especial,NUL,Votos NULOS,59
+DIP,CABA.12.37,Localidad,Villa Urquiza,Comuna 12,61301,65,62.1742,100,61366,2025-05-18 21:20:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,88
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,595
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,11.11.11,El Movimiento,46
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,12.12.12,Frente Patriota Federal,37
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,13.13.13,La Izquierda en la Ciudad,99
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,14.14.14,La Libertad Avanza,7477
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,15.15.15,Seamos Libres,101
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,16.16.16,Unión del Centro Democrático,549
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,508
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,2.2.2,Buenos Aires Primero,4259
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,3.3.3,Volvamos Buenos Aires,2258
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,4.4.4,Es Ahora Buenos Aires,7605
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,5.5.5,Evolución,536
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,850
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,7.7.7,Principios y Valores,520
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,8.8.8,Unión Porteña Libertaria,148
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Lista,9.9.9,Movimiento Plural,21
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Blanco,BLC,Voto en BLANCO,493
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,1
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Especial,NUL,Votos NULOS,20
+DIP,CABA.12.38,Localidad,Villa Pueyrredon,Comuna 12,26190,23,64.564,99.1452,26213,2025-05-18 20:10:01,Especial,REC,Votos RECURRIDOS,2
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,100
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1059
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,11.11.11,El Movimiento,53
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,12.12.12,Frente Patriota Federal,37
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,13.13.13,La Izquierda en la Ciudad,100
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,14.14.14,La Libertad Avanza,10669
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,15.15.15,Seamos Libres,62
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,16.16.16,Unión del Centro Democrático,882
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,422
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,2.2.2,Buenos Aires Primero,6388
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,3.3.3,Volvamos Buenos Aires,2589
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,4.4.4,Es Ahora Buenos Aires,7219
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,5.5.5,Evolución,895
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,906
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,7.7.7,Principios y Valores,476
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,8.8.8,Unión Porteña Libertaria,145
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Lista,9.9.9,Movimiento Plural,19
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Blanco,BLC,Voto en BLANCO,610
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Especial,NUL,Votos NULOS,13
+DIP,CABA.13.39,Localidad,Nuñez,Comuna 13,32631,18,57.9396,100,32649,2025-05-18 19:55:01,Especial,REC,Votos RECURRIDOS,3
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,187
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,2558
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,11.11.11,El Movimiento,65
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,12.12.12,Frente Patriota Federal,82
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,13.13.13,La Izquierda en la Ciudad,188
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,14.14.14,La Libertad Avanza,28524
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,15.15.15,Seamos Libres,161
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,16.16.16,Unión del Centro Democrático,2260
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,870
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,2.2.2,Buenos Aires Primero,17979
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,3.3.3,Volvamos Buenos Aires,6141
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,4.4.4,Es Ahora Buenos Aires,12984
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,5.5.5,Evolución,1869
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1554
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,7.7.7,Principios y Valores,927
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,8.8.8,Unión Porteña Libertaria,350
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Lista,9.9.9,Movimiento Plural,59
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Blanco,BLC,Voto en BLANCO,1296
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,3
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Especial,NUL,Votos NULOS,49
+DIP,CABA.13.40,Localidad,Belgrano,Comuna 13,78054,57,56.3571,100,78111,2025-05-18 20:20:01,Especial,REC,Votos RECURRIDOS,5
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,118
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1018
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,11.11.11,El Movimiento,52
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,12.12.12,Frente Patriota Federal,39
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,13.13.13,La Izquierda en la Ciudad,101
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,14.14.14,La Libertad Avanza,9030
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,15.15.15,Seamos Libres,101
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,16.16.16,Unión del Centro Democrático,789
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,392
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,2.2.2,Buenos Aires Primero,6091
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,3.3.3,Volvamos Buenos Aires,2600
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,4.4.4,Es Ahora Buenos Aires,7529
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,5.5.5,Evolución,850
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,884
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,7.7.7,Principios y Valores,455
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,8.8.8,Unión Porteña Libertaria,170
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Lista,9.9.9,Movimiento Plural,29
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Blanco,BLC,Voto en BLANCO,569
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Especial,NUL,Votos NULOS,24
+DIP,CABA.13.41,Localidad,Colegiales,Comuna 13,30817,28,58.3632,100,30845,2025-05-18 19:45:01,Especial,REC,Votos RECURRIDOS,4
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,379
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,4109
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,11.11.11,El Movimiento,130
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,12.12.12,Frente Patriota Federal,177
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,13.13.13,La Izquierda en la Ciudad,344
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,14.14.14,La Libertad Avanza,45013
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,15.15.15,Seamos Libres,354
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,16.16.16,Unión del Centro Democrático,3517
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,1419
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,2.2.2,Buenos Aires Primero,26678
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,3.3.3,Volvamos Buenos Aires,10036
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,4.4.4,Es Ahora Buenos Aires,26301
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,5.5.5,Evolución,2969
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,2986
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,7.7.7,Principios y Valores,1529
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,8.8.8,Unión Porteña Libertaria,632
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Lista,9.9.9,Movimiento Plural,109
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Blanco,BLC,Voto en BLANCO,2010
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,11
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Especial,NUL,Votos NULOS,78
+DIP,CABA.14.42,Localidad,Palermo,Comuna 14,128692,101,52.5685,100,128793,2025-05-18 20:35:01,Especial,REC,Votos RECURRIDOS,12
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,103
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,311
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,11.11.11,El Movimiento,41
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,12.12.12,Frente Patriota Federal,17
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,13.13.13,La Izquierda en la Ciudad,68
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,14.14.14,La Libertad Avanza,3921
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,15.15.15,Seamos Libres,133
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,16.16.16,Unión del Centro Democrático,370
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,232
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,2.2.2,Buenos Aires Primero,1983
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,3.3.3,Volvamos Buenos Aires,1395
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,4.4.4,Es Ahora Buenos Aires,5549
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,5.5.5,Evolución,411
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,654
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,7.7.7,Principios y Valores,357
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,8.8.8,Unión Porteña Libertaria,106
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Lista,9.9.9,Movimiento Plural,18
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Blanco,BLC,Voto en BLANCO,351
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Especial,NUL,Votos NULOS,19
+DIP,CABA.15.43,Localidad,Chacarita,Comuna 15,16020,20,53.289,100,16040,2025-05-18 20:05:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,218
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,1317
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,11.11.11,El Movimiento,92
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,12.12.12,Frente Patriota Federal,60
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,13.13.13,La Izquierda en la Ciudad,222
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,14.14.14,La Libertad Avanza,13069
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,15.15.15,Seamos Libres,232
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,16.16.16,Unión del Centro Democrático,1063
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,787
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,2.2.2,Buenos Aires Primero,6952
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,3.3.3,Volvamos Buenos Aires,3995
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,4.4.4,Es Ahora Buenos Aires,15401
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,5.5.5,Evolución,1564
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,1915
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,7.7.7,Principios y Valores,1003
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,8.8.8,Unión Porteña Libertaria,236
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Lista,9.9.9,Movimiento Plural,51
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Blanco,BLC,Voto en BLANCO,988
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Especial,NUL,Votos NULOS,30
+DIP,CABA.15.44,Localidad,Villa Crespo,Comuna 15,49165,37,56.4566,100,49202,2025-05-18 20:30:01,Especial,REC,Votos RECURRIDOS,5
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,37
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,198
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,11.11.11,El Movimiento,30
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,12.12.12,Frente Patriota Federal,15
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,13.13.13,La Izquierda en la Ciudad,55
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,14.14.14,La Libertad Avanza,2754
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,15.15.15,Seamos Libres,64
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,16.16.16,Unión del Centro Democrático,233
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,240
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,2.2.2,Buenos Aires Primero,1135
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,3.3.3,Volvamos Buenos Aires,849
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,4.4.4,Es Ahora Buenos Aires,3579
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,5.5.5,Evolución,215
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,430
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,7.7.7,Principios y Valores,250
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,8.8.8,Unión Porteña Libertaria,79
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Lista,9.9.9,Movimiento Plural,16
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Blanco,BLC,Voto en BLANCO,230
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Especial,NUL,Votos NULOS,8
+DIP,CABA.15.45,Localidad,Paternal,Comuna 15,10409,9,52.2205,100,10418,2025-05-18 19:30:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,61
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,340
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,11.11.11,El Movimiento,25
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,12.12.12,Frente Patriota Federal,20
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,13.13.13,La Izquierda en la Ciudad,47
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,14.14.14,La Libertad Avanza,3593
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,15.15.15,Seamos Libres,63
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,16.16.16,Unión del Centro Democrático,296
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,243
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,2.2.2,Buenos Aires Primero,2033
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,3.3.3,Volvamos Buenos Aires,1104
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,4.4.4,Es Ahora Buenos Aires,3949
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,5.5.5,Evolución,278
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,506
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,7.7.7,Principios y Valores,248
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,8.8.8,Unión Porteña Libertaria,77
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Lista,9.9.9,Movimiento Plural,7
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Blanco,BLC,Voto en BLANCO,228
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,2
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Especial,NUL,Votos NULOS,11
+DIP,CABA.15.46,Localidad,Villa Ortuzar,Comuna 15,13118,13,57.7186,100,13131,2025-05-18 20:05:01,Especial,REC,Votos RECURRIDOS,0
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,21
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,269
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,11.11.11,El Movimiento,5
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,12.12.12,Frente Patriota Federal,7
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,13.13.13,La Izquierda en la Ciudad,32
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,14.14.14,La Libertad Avanza,2543
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,15.15.15,Seamos Libres,33
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,16.16.16,Unión del Centro Democrático,199
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,154
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,2.2.2,Buenos Aires Primero,1373
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,3.3.3,Volvamos Buenos Aires,741
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,4.4.4,Es Ahora Buenos Aires,2559
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,5.5.5,Evolución,205
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,319
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,7.7.7,Principios y Valores,135
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,8.8.8,Unión Porteña Libertaria,50
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Lista,9.9.9,Movimiento Plural,11
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Blanco,BLC,Voto en BLANCO,170
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Especial,NUL,Votos NULOS,7
+DIP,CABA.15.47,Localidad,Agronomia,Comuna 15,8826,8,63.1,100,8834,2025-05-18 19:30:01,Especial,REC,Votos RECURRIDOS,1
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,1.1.1,Confluencia - Por la Igualdad y la Soberanía,74
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,10.10.10,Coalición Cívica - Afirmación para una República Igualitaria,250
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,11.11.11,El Movimiento,27
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,12.12.12,Frente Patriota Federal,22
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,13.13.13,La Izquierda en la Ciudad,61
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,14.14.14,La Libertad Avanza,2962
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,15.15.15,Seamos Libres,50
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,16.16.16,Unión del Centro Democrático,258
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,17.17.17,Movimiento de Integración y Desarrollo,219
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,2.2.2,Buenos Aires Primero,1477
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,3.3.3,Volvamos Buenos Aires,891
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,4.4.4,Es Ahora Buenos Aires,3743
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,5.5.5,Evolución,255
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,6.6.6,Frente de Izquierda y de Trabajadores - Unidad,506
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,7.7.7,Principios y Valores,249
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,8.8.8,Unión Porteña Libertaria,49
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Lista,9.9.9,Movimiento Plural,13
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Blanco,BLC,Voto en BLANCO,249
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Especial,IMP,Votos DE IDENTIDAD IMPUGNADA,0
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Especial,NUL,Votos NULOS,7
+DIP,CABA.15.48,Localidad,Parque Chas,Comuna 15,11355,7,62.4285,100,11362,2025-05-18 19:40:01,Especial,REC,Votos RECURRIDOS,0
