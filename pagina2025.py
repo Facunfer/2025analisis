@@ -4,6 +4,7 @@ import streamlit as st
 import folium
 from streamlit_folium import folium_static
 import plotly.graph_objects as go
+import numpy as np
 
 # --- CARGA DE DATOS ---
 df_2025 = pd.read_csv("C:\\Users\\usuario\\Downloads\\RESULTADOS 2025 - CABA_1_1_DIP (1) (3).csv")
@@ -294,7 +295,6 @@ with tabs[0]:
 with tabs[1]:
     st.title("Análisis por Comuna")
 
-    # Limpiar figuras anteriores que sean de la pestaña de barrios
     st.session_state.clear()
 
     partido_lla = "LA LIBERTAD AVANZA"
@@ -342,57 +342,50 @@ with tabs[1]:
         "Cantidad de Votos LLA 2025": {
             "col": "VOTOS_2025",
             "legend": "Votos LLA 2025",
-            "formato": lambda x: f"{int(x):,} votos",
-            "thresholds": [0, 1000, 2000, 4000, 6000, 8000, 10000, 12000]
+            "formato": lambda x: f"{int(x):,} votos"
         },
         "Porcentaje LLA 2025": {
             "col": "PORC_2025",
             "legend": "% LLA 2025",
-            "formato": lambda x: f"{x:.1f}%",
-            "thresholds": [20, 25, 27, 29, 31, 33, 36, 40, 45, 50]
+            "formato": lambda x: f"{x:.1f}%"
         },
         "Crecimiento en Votos 2023-2025": {
             "col": "DIF_ABS",
             "legend": "Crecimiento de votos",
-            "formato": lambda x: f"{int(x):+d} votos",
-            "thresholds": [-1000, -500, 0, 500, 1000, 2000, 4000, 6000]
+            "formato": lambda x: f"{int(x):+d} votos"
         },
         "Crecimiento porcentual 2023_2025": {
             "col": "DIF_PORC",
             "legend": "Crecimiento porcentual",
-            "formato": lambda x: f"{x:+.1f}%",
-            "thresholds": [-10, -5, 0, 2, 5, 10, 15, 20]
+            "formato": lambda x: f"{x:+.1f}%"
         }
     }
 
     columna = config[capa]['col']
     formatear = config[capa]['formato']
     leyenda = config[capa]['legend']
-    thresholds_base = config[capa]['thresholds']
 
-    min_val = geo_comuna[columna].min()
-    max_val = geo_comuna[columna].max()
-    thresholds_validos = thresholds_base.copy()
-    if min_val < min(thresholds_validos):
-        thresholds_validos = [min_val - 1] + thresholds_validos
-    if max_val > max(thresholds_validos):
-        thresholds_validos = thresholds_validos + [max_val + 1]
+    geo_comuna = geo_comuna[pd.notnull(geo_comuna[columna])]
+    geo_comuna[columna] = pd.to_numeric(geo_comuna[columna], errors='coerce')
+
+    thresholds_validos = list(pd.cut(geo_comuna[columna], bins=8).unique().categories.left)
+    thresholds_validos.append(geo_comuna[columna].max())
 
     m = folium.Map(location=[-34.61, -58.42], zoom_start=11)
 
     folium.Choropleth(
-    geo_data=geo_comuna,
-    data=geo_comuna,
-    columns=['COMUNA', columna],
-    key_on='feature.properties.COMUNA',
-    fill_color='RdYlGn',
-    fill_opacity=0.75,
-    line_opacity=0.3,
-    nan_fill_color='white',
-    legend_name=leyenda,
-    threshold_scale=thresholds_validos,
-    reset=True
- ).add_to(m)
+        geo_data=geo_comuna,
+        data=geo_comuna,
+        columns=['COMUNA', columna],
+        key_on='feature.properties.COMUNA',
+        fill_color='RdYlGn',
+        fill_opacity=0.75,
+        line_opacity=0.3,
+        nan_fill_color='white',
+        legend_name=leyenda,
+        threshold_scale=thresholds_validos,
+        reset=True
+    ).add_to(m)
 
     for _, row in geo_comuna.iterrows():
         valor = row[columna]
@@ -406,94 +399,90 @@ with tabs[1]:
             ).add_to(m)
 
     folium_static(m)
-
-    # --- GRÁFICOS DE COMUNA ---
-    import plotly.graph_objects as go
-
-    # Definir agrupaciones y equivalencias
     agrup_2025 = {
-        "LA LIBERTAD AVANZA": "LLA",
-        "ES AHORA BUENOS AIRES": "SANTORO",
-        "BUENOS AIRES PRIMERO": "PRO/JXC"
-    }
-    agrup_2023 = {
-        "LA LIBERTAD AVANZA": "LLA",
-        "UNION POR LA PATRIA": "SANTORO",
-        "JUNTOS POR EL CAMBIO": "PRO/JXC"
-    }
+    "LA LIBERTAD AVANZA": "LLA",
+    "ES AHORA BUENOS AIRES": "SANTORO",
+    "BUENOS AIRES PRIMERO": "PRO/JXC"
+}
+agrup_2023 = {
+    "LA LIBERTAD AVANZA": "LLA",
+    "UNION POR LA PATRIA": "SANTORO",
+    "JUNTOS POR EL CAMBIO": "PRO/JXC"
+}
 
-    v25 = df_2025[df_2025['PARTIDO'].isin(agrup_2025)].copy()
-    v25['AGRUP'] = v25['PARTIDO'].map(agrup_2025)
-    v25 = v25.groupby(['COMUNA', 'AGRUP'])['VOTOS'].sum().reset_index(name='VOTOS_2025')
+v25 = df_2025[df_2025['PARTIDO'].isin(agrup_2025)].copy()
+v25['AGRUP'] = v25['PARTIDO'].map(agrup_2025)
+v25 = v25.groupby(['COMUNA', 'AGRUP'])['VOTOS'].sum().reset_index(name='VOTOS_2025')
 
-    v23 = df_2023[df_2023['PARTIDO'].isin(agrup_2023)].copy()
-    v23['AGRUP'] = v23['PARTIDO'].map(agrup_2023)
-    v23 = v23.groupby(['COMUNA', 'AGRUP'])['VOTOS'].sum().reset_index(name='VOTOS_2023')
+v23 = df_2023[df_2023['PARTIDO'].isin(agrup_2023)].copy()
+v23['AGRUP'] = v23['PARTIDO'].map(agrup_2023)
+v23 = v23.groupby(['COMUNA', 'AGRUP'])['VOTOS'].sum().reset_index(name='VOTOS_2023')
 
-    df_comparado = v25.merge(v23, on=['COMUNA', 'AGRUP'], how='outer').fillna(0)
-    df_comparado['DIF'] = df_comparado['VOTOS_2025'] - df_comparado['VOTOS_2023']
+df_comparado = v25.merge(v23, on=['COMUNA', 'AGRUP'], how='outer').fillna(0)
+df_comparado['DIF'] = df_comparado['VOTOS_2025'] - df_comparado['VOTOS_2023']
 
-    total25 = df_2025.groupby('COMUNA')['VOTOS'].sum().reset_index(name='TOTAL_2025')
-    validos_2023 = df_2023[df_2023['PARTIDO'].isin(agrup_2023)]
-    total23 = validos_2023.groupby('COMUNA')['VOTOS'].sum().reset_index(name='TOTAL_2023')
+total25 = df_2025.groupby('COMUNA')['VOTOS'].sum().reset_index(name='TOTAL_2025')
+validos_2023 = df_2023[df_2023['PARTIDO'].isin(agrup_2023)]
+total23 = validos_2023.groupby('COMUNA')['VOTOS'].sum().reset_index(name='TOTAL_2023')
 
-    df_comparado = df_comparado.merge(total25, on='COMUNA', how='left').merge(total23, on='COMUNA', how='left')
-    df_comparado['PORC_2025'] = df_comparado['VOTOS_2025'] / df_comparado['TOTAL_2025'] * 100
-    df_comparado['PORC_2023'] = df_comparado['VOTOS_2023'] / df_comparado['TOTAL_2023'] * 100
-    df_comparado['DIF_PORC'] = df_comparado['PORC_2025'] - df_comparado['PORC_2023']
+df_comparado = df_comparado.merge(total25, on='COMUNA', how='left').merge(total23, on='COMUNA', how='left')
+df_comparado['PORC_2025'] = df_comparado['VOTOS_2025'] / df_comparado['TOTAL_2025'] * 100
+df_comparado['PORC_2023'] = df_comparado['VOTOS_2023'] / df_comparado['TOTAL_2023'] * 100
+df_comparado['DIF_PORC'] = df_comparado['PORC_2025'] - df_comparado['PORC_2023']
 
-    top_comunas = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF')['COMUNA']
-    df_top = df_comparado[df_comparado['COMUNA'].isin(top_comunas)]
-    colores = {'LLA': 'indigo', 'SANTORO': 'darkblue', 'PRO/JXC': 'goldenrod'}
+# --- Gráfico de crecimiento absoluto ---
+top_comunas = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF')['COMUNA']
+df_top = df_comparado[df_comparado['COMUNA'].isin(top_comunas)]
+colores = {'LLA': 'indigo', 'SANTORO': 'darkblue', 'PRO/JXC': 'goldenrod'}
 
-    fig_abs = go.Figure()
-    for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
-        df_sub = df_top[df_top['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas].reset_index()
-        fig_abs.add_trace(go.Bar(
-            x=df_sub['COMUNA'],
-            y=df_sub['DIF'],
-            name=agrup,
-            marker_color=colores[agrup],
-            text=df_sub['DIF'],
-            textposition='outside',
-            textfont_size=16,
-            offsetgroup=agrup
-        ))
-    fig_abs.update_layout(
-        barmode='group',
-        title="Crecimiento absoluto por comuna (2025 vs 2023)",
-        xaxis_title="Comuna",
-        yaxis_title="Crecimiento en votos",
-        height=600,
-        xaxis_tickangle=-45
-    )
-    st.plotly_chart(fig_abs)
+fig_abs = go.Figure()
+for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
+    df_sub = df_top[df_top['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas].reset_index()
+    fig_abs.add_trace(go.Bar(
+        x=df_sub['COMUNA'],
+        y=df_sub['DIF'],
+        name=agrup,
+        marker_color=colores[agrup],
+        text=df_sub['DIF'],
+        textposition='outside',
+        textfont_size=16,
+        offsetgroup=agrup
+    ))
+fig_abs.update_layout(
+    barmode='group',
+    title="Crecimiento absoluto por comuna (2025 vs 2023)",
+    xaxis_title="Comuna",
+    yaxis_title="Crecimiento en votos",
+    height=600,
+    xaxis_tickangle=-45
+)
+st.plotly_chart(fig_abs)
 
-    # --- Porcentual ---
-    top_comunas_porc = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF_PORC')['COMUNA']
-    df_top_porc = df_comparado[df_comparado['COMUNA'].isin(top_comunas_porc)]
-    fig_porc = go.Figure()
-    for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
-        df_sub = df_top_porc[df_top_porc['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas_porc].reset_index()
-        fig_porc.add_trace(go.Bar(
-            x=df_sub['COMUNA'],
-            y=df_sub['DIF_PORC'],
-            name=agrup,
-            marker_color=colores[agrup],
-            text=df_sub['DIF_PORC'].round(1).astype(str) + '%',
-            textposition='outside',
-            textfont_size=16,
-            offsetgroup=agrup
-        ))
-    fig_porc.update_layout(
-        barmode='group',
-        title="Crecimiento en puntos porcentuales por comuna (2025 vs 2023)",
-        xaxis_title="Comuna",
-        yaxis_title="Puntos porcentuales",
-        height=600,
-        xaxis_tickangle=-45
-    )
-    st.plotly_chart(fig_porc)
+# --- Gráfico de crecimiento porcentual ---
+top_comunas_porc = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF_PORC')['COMUNA']
+df_top_porc = df_comparado[df_comparado['COMUNA'].isin(top_comunas_porc)]
+fig_porc = go.Figure()
+for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
+    df_sub = df_top_porc[df_top_porc['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas_porc].reset_index()
+    fig_porc.add_trace(go.Bar(
+        x=df_sub['COMUNA'],
+        y=df_sub['DIF_PORC'],
+        name=agrup,
+        marker_color=colores[agrup],
+        text=df_sub['DIF_PORC'].round(1).astype(str) + '%',
+        textposition='outside',
+        textfont_size=16,
+        offsetgroup=agrup
+    ))
+fig_porc.update_layout(
+    barmode='group',
+    title="Crecimiento en puntos porcentuales por comuna (2025 vs 2023)",
+    xaxis_title="Comuna",
+    yaxis_title="Puntos porcentuales",
+    height=600,
+    xaxis_tickangle=-45
+)
+st.plotly_chart(fig_porc)
 
 
  
