@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 import numpy as np
 
 # --- CARGA DE DATOS ---
-df_2025 = pd.read_csv("C:\\Users\\usuario\\Downloads\\RESULTADOS 2025 - CABA_1_1_DIP (1) (3).csv")
-df_2023 = pd.read_csv("C:\\Users\\usuario\\Downloads\\RESULTADOS 2023 - Hoja 1 (2).csv")
+df_2025 = pd.read_csv("https://raw.githubusercontent.com/Facunfer/2025analisis/refs/heads/main/RESULTADOS%202025%20-%20CABA_1_1_DIP%20(1)%20(3)%20(1).csv")
+df_2023 = pd.read_csv("https://raw.githubusercontent.com/Facunfer/2025analisis/refs/heads/main/RESULTADOS%202023%20-%20Hoja%201%20(2)%20(1).csv")
 
 df_2025.columns = df_2025.columns.str.strip().str.upper()
 df_2023.columns = df_2023.columns.str.strip().str.upper()
