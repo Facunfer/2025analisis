@@ -85,10 +85,10 @@ with tabs[0]:
  st.title("Mapa de Votos de La Libertad Avanza por Barrio")
 
  comunas_disponibles = sorted(df_barrio['COMUNA'].dropna().unique())
- comuna_seleccionada = st.selectbox("Seleccioná una comuna para visualizar:", ["Todas"] + comunas_disponibles)
+ comuna_seleccionada_barrio = st.selectbox("Seleccioná una comuna para visualizar:", ["Todas"] + comunas_disponibles)
 
- if comuna_seleccionada != "Todas":
-    df_barrio = df_barrio[df_barrio['COMUNA'] == comuna_seleccionada]
+ if comuna_seleccionada_barrio != "Todas":
+    df_barrio = df_barrio[df_barrio['COMUNA'] == comuna_seleccionada_barrio]
 
  url_geojson = "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/barrios/barrios.geojson"
  geo = gpd.read_file(url_geojson)
@@ -199,7 +199,7 @@ with tabs[0]:
  df_votos['PORC_2023'] = df_votos['VOTOS_2023'] / df_votos['TOTAL'] * 100
  df_votos['DIF_PORC'] = df_votos['PORC_2025'] - df_votos['PORC_2023']
 
- if comuna_seleccionada != "Todas":
+ if comuna_seleccionada_barrio != "Todas":
     df_votos = df_votos[df_votos['BARRIO'].isin(df_barrio['BARRIO'].unique())]
 
  # --- GRAFICO ABSOLUTO ---
@@ -259,7 +259,7 @@ with tabs[0]:
  porc = v25.merge(v23, on=['BARRIO', 'AGRUP'], how='outer').fillna(0)
  porc['DIF_PORC'] = porc['PORC_2025'] - porc['PORC_2023']
 
- if comuna_seleccionada != "Todas":
+ if comuna_seleccionada_barrio != "Todas":
     porc = porc[porc['BARRIO'].isin(df_barrio['BARRIO'].unique())]
 
  barrios_top_porc = porc[porc['AGRUP'] == 'LLA'].nlargest(10, 'DIF_PORC')['BARRIO']
@@ -329,6 +329,7 @@ with tabs[1]:
     if comuna_seleccionada != "Todas":
         df_comuna = df_comuna[df_comuna['COMUNA'] == comuna_seleccionada]
 
+
     geo_comuna = geo.merge(df_comuna, on='COMUNA', how='left')
 
     capa = st.selectbox("Seleccioná la capa de visualización:", [
@@ -337,6 +338,10 @@ with tabs[1]:
         "Crecimiento en Votos 2023-2025",
         "Crecimiento porcentual 2023_2025"
     ])
+    if comuna_seleccionada != "Todas":
+     df_comuna = df_comuna[df_comuna['COMUNA'] == comuna_seleccionada]
+    
+
 
     config = {
         "Cantidad de Votos LLA 2025": {
@@ -370,6 +375,7 @@ with tabs[1]:
 
     thresholds_validos = list(pd.cut(geo_comuna[columna], bins=8).unique().categories.left)
     thresholds_validos.append(geo_comuna[columna].max())
+    thresholds_validos = sorted(set(thresholds_validos))
 
     m = folium.Map(location=[-34.61, -58.42], zoom_start=11)
 
@@ -435,10 +441,10 @@ top_comunas = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF')['
 df_top = df_comparado[df_comparado['COMUNA'].isin(top_comunas)]
 colores = {'LLA': 'indigo', 'SANTORO': 'darkblue', 'PRO/JXC': 'goldenrod'}
 
-fig_abs = go.Figure()
+fig_abs1 = go.Figure()
 for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
     df_sub = df_top[df_top['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas].reset_index()
-    fig_abs.add_trace(go.Bar(
+    fig_abs1.add_trace(go.Bar(
         x=df_sub['COMUNA'],
         y=df_sub['DIF'],
         name=agrup,
@@ -448,7 +454,7 @@ for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
         textfont_size=16,
         offsetgroup=agrup
     ))
-fig_abs.update_layout(
+fig_abs1.update_layout(
     barmode='group',
     title="Crecimiento absoluto por comuna (2025 vs 2023)",
     xaxis_title="Comuna",
@@ -456,15 +462,15 @@ fig_abs.update_layout(
     height=600,
     xaxis_tickangle=-45
 )
-st.plotly_chart(fig_abs)
+st.plotly_chart(fig_abs1)
 
 # --- Gráfico de crecimiento porcentual ---
 top_comunas_porc = df_comparado[df_comparado['AGRUP'] == 'LLA'].nlargest(10, 'DIF_PORC')['COMUNA']
 df_top_porc = df_comparado[df_comparado['COMUNA'].isin(top_comunas_porc)]
-fig_porc = go.Figure()
+fig_porc1 = go.Figure()
 for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
     df_sub = df_top_porc[df_top_porc['AGRUP'] == agrup].set_index('COMUNA').loc[top_comunas_porc].reset_index()
-    fig_porc.add_trace(go.Bar(
+    fig_porc1.add_trace(go.Bar(
         x=df_sub['COMUNA'],
         y=df_sub['DIF_PORC'],
         name=agrup,
@@ -474,7 +480,7 @@ for agrup in ['LLA', 'SANTORO', 'PRO/JXC']:
         textfont_size=16,
         offsetgroup=agrup
     ))
-fig_porc.update_layout(
+fig_porc1.update_layout(
     barmode='group',
     title="Crecimiento en puntos porcentuales por comuna (2025 vs 2023)",
     xaxis_title="Comuna",
@@ -482,7 +488,7 @@ fig_porc.update_layout(
     height=600,
     xaxis_tickangle=-45
 )
-st.plotly_chart(fig_porc)
+st.plotly_chart(fig_porc1)
 
 
  
